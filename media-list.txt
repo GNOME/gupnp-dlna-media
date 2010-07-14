@@ -1,2 +1,3 @@
 #path,profile name,mime type
 strict/audio/NiN_Ghosts_II_12.mp3,MP3,audio/mpeg
+strict/audio/NiN_Ghosts_II_12_lo.mp3,MP3X,audio/mpeg
