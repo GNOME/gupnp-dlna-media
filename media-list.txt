@@ -9,3 +9,4 @@ strict/video/Sita_Sings_The_Blues_Clip_lo_2.mp4,AVC_MP4_BL_CIF15_AAC,video/mp4
 strict/video/Sita_Sings_The_Blues_Clip_med_1.mp4,AVC_MP4_L3L_SD_AAC,video/mp4
 strict/video/Big_Buck_Bunny_Trailer_lo_1.mp4,MPEG4_P2_MP4_SP_AAC,video/mp4
 strict/video/Big_Buck_Bunny_Trailer_lo_2.mp4,MPEG4_P2_MP4_SP_AAC_LTP,video/mp4
+strict/video/Big_Buck_Bunny_Trailer_lo_3.mp4,MPEG4_P2_MP4_SP_L2_AAC,video/mp4
