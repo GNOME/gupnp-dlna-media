@@ -24,3 +24,5 @@ strict/image/4768220305_d09c8b0674_t.jpg,JPEG_TN,image/jpeg
 strict/image/4768220305_d09c8b0674.jpg,JPEG_SM,image/jpeg
 strict/image/4768220305_d09c8b0674_b.jpg,JPEG_MED,image/jpeg
 strict/image/4768220305_9241656b63_l.jpg,JPEG_LRG,image/jpeg
+strict/image/4768220305_d09c8b0674_t.png,PNG_TN,image/png
+strict/image/4768220305_9241656b63_l.png,PNG_LRG,image/png
