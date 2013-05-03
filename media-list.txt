@@ -8,6 +8,9 @@ strict/audio/NiN_Ghosts_II_15.m4a,AAC_ISO,audio/mp4
 strict/audio/Big_Buck_Bunny_Trailer_1.m4a,AAC_MULT5_ISO,audio/mp4
 strict/audio/The_Postmen_Stolen_Thief.ac3,AC3,audio/vnd.dolby.dd-raw
 strict/audio/The_Postmen_Stolen_Thief.3gp,AMR_3GPP,audio/3gpp
+strict/audio/NiN_Ghosts_I_1_BASE.wma,WMABASE,audio/x-ms-wma
+strict/audio/NiN_Ghosts_I_1_FULL.wma,WMAFULL,audio/x-ms-wma
+struct/audio/big_buck_bunny_720p_surround_PRO.wma,WMAPRO,audio/x-ms-wma
 strict/video/Sita_Sings_The_Blues_Clip.mpg,MPEG1,video/mpeg
 strict/video/Sita_Sings_The_Blues_Clip_lo_1.mp4,AVC_MP4_BL_CIF15_AAC_520,video/mp4
 strict/video/Sita_Sings_The_Blues_Clip_lo_2.mp4,AVC_MP4_BL_CIF15_AAC,video/mp4
