@@ -10,7 +10,7 @@ strict/audio/The_Postmen_Stolen_Thief.ac3,AC3,audio/vnd.dolby.dd-raw
 strict/audio/The_Postmen_Stolen_Thief.3gp,AMR_3GPP,audio/3gpp
 strict/audio/NiN_Ghosts_I_1_BASE.wma,WMABASE,audio/x-ms-wma
 strict/audio/NiN_Ghosts_I_1_FULL.wma,WMAFULL,audio/x-ms-wma
-struct/audio/big_buck_bunny_720p_surround_PRO.wma,WMAPRO,audio/x-ms-wma
+strict/audio/big_buck_bunny_720p_surround_PRO.wma,WMAPRO,audio/x-ms-wma
 strict/video/Sita_Sings_The_Blues_Clip.mpg,MPEG1,video/mpeg
 strict/video/Sita_Sings_The_Blues_Clip_lo_1.mp4,AVC_MP4_BL_CIF15_AAC_520,video/mp4
 strict/video/Sita_Sings_The_Blues_Clip_lo_2.mp4,AVC_MP4_BL_CIF15_AAC,video/mp4
@@ -23,6 +23,8 @@ strict/video/Big_Buck_Bunny_Trailer_med_1.mp4,AVC_MP4_MP_SD_AAC_MULT5,video/mp4
 strict/video/Big_Buck_Bunny_Trailer_med_2.mp4,AVC_MP4_MP_SD_MPEG1_L3,video/mp4
 strict/video/Big_Buck_Bunny_Trailer_hi_1.mp4,AVC_MP4_MP_HD_720p_AAC,video/mp4
 strict/video/Big_Buck_Bunny_Trailer_hi_2.mp4,AVC_MP4_MP_HD_1080i_AAC,video/mp4
+strict/video/13050005.mp4,MPEG4_P2_MP4_SP_L6_AAC,video/mp4
+strict/video/13050014.mp4,MPEG4_P2_MP4_SP_L5_AAC,video/mp4
 strict/image/4768220305_d09c8b0674_t.jpg,JPEG_TN,image/jpeg
 strict/image/4768220305_d09c8b0674.jpg,JPEG_SM,image/jpeg
 strict/image/4768220305_d09c8b0674_b.jpg,JPEG_MED,image/jpeg
