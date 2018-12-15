@@ -20,7 +20,7 @@ If you have cause to believe that any media in this repository infringes the aut
   <download-page
   rdf:resource="http://download.gnome.org/sources/rygel/"/>
   <bug-database
-  rdf:resource="http://bugzilla.gnome.org/browse.cgi?product=rygel"/>
+  rdf:resource="https://gitlab.gnome.org/GNOME/gupnp-dlna-media/issues/" />
 
   <maintainer>
     <foaf:Person>
